@@ -1,0 +1,14 @@
+/* body-container */
+
+.body-container {
+    font-family: "Open Sans", sans-serif;
+    padding: 0.3rem;
+    background-image: url(./img/lb.jpg);
+    background-size: cover;
+}
+
+.error{
+    color: red;
+    padding: 2px;
+    font-style: bold;
+}
